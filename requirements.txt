@@ -1,0 +1,6 @@
+Flask
+werkzeug>=3.0.3
+curl_cffi
+g4f
+uvicorn
+fastapi
